@@ -39,3 +39,7 @@ sequenceDiagram
     Note left of server: The browser executes the callback function that renders the notes
 
 ```
+
+```mermaid
+  info
+```
